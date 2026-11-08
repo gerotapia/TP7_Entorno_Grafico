@@ -1,5 +1,6 @@
 Introducción:
 Este repositorio contiene el código fuente para el desarrollo de una interfaz gráfica de control bidireccional entre una computadora y una placa Arduino. El sistema permite leer el estado de entradas físicas(pulsadores) y visualizarlos en pantalla en tiempo real, así como controlar salidas físicas(LEDs) interactuando directamente con la interfaz gráfica mediante el mouse.
+
 Esquemático y Hardware Utilizado:
 Las conexiones del Arduino UNO se han realizado de la siguiente manera:
 *   **Entrada 1(Pulsador 1):** Conectado al *Pin Digital 2* utilizando una configuración Pull-Down (con resistencia de 10kΩ a GND).
