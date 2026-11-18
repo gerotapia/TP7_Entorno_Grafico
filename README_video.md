@@ -1,3 +1,5 @@
+### Alumno: Tapia Gerónimo
+
 ### Introducción:
 Este repositorio contiene el código fuente para el desarrollo de una interfaz gráfica de control bidireccional entre una computadora y una placa Arduino.
 
